@@ -1,11 +1,11 @@
 # Unsupervised-Learning-K-Means-DBSCAN-Clustering
 
-Project Overview
+### Project Overview
 
-### This project demonstrates unsupervised learning using K-Means and DBSCAN clustering algorithms. The goal is to group similar data points together and compare how both algorithms behave on different data shapes.
+##### This project demonstrates unsupervised learning using K-Means and DBSCAN clustering algorithms. The goal is to group similar data points together and compare how both algorithms behave on different data shapes.
 ---
 
-Algorithms Used
+### Algorithms Used
 
 1. K-Means Clustering
 - Divides data into K clusters
@@ -20,7 +20,7 @@ Algorithms Used
 - Does not require number of clusters
 ---
 
-Dataset
+### Dataset
 
 Synthetic datasets are generated using sklearn:
 - Blob dataset (for K-Means)
