@@ -25,3 +25,18 @@
 Synthetic datasets are generated using sklearn:
 - Blob dataset (for K-Means)
 - Moon-shaped dataset (for DBSCAN comparison)
+---
+
+### Results
+
+K-Means:
+
+- Works well for circular clusters
+- Requires manual K selection
+- Fails for non-linear data
+
+DBSCAN:
+
+- Handles irregular shapes
+- Detects noise points
+- No need to specify cluster count
